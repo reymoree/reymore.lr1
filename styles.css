@@ -1,0 +1,64 @@
+body {
+    font-family: "Caacupe One", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+
+    background: url('https://avatars.mds.yandex.net/i?id=a75d15be9494c0e268ff30e33dc3b7a2_l-5810594-images-thumbs&n=13');
+    background-repeat: no-repeat;
+object-fit: fill;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 5px;
+    background-color: #c1c3c1;
+}
+
+.title {
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.navigation a {
+    font-size: 30px;
+    color: rgb(225, 41, 41);
+}
+
+a:hover {
+    color: rgb(11, 232, 77);
+}
+
+
+.avatar {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.8);
+}
+
+.about p {
+    color: rgb(241, 4, 4);
+    font-size: 14px;
+}
+
+ul {
+    list-style: none;
+}
+
+.about {
+    background-color: rgb(43, 150, 226);
+    border-radius: 24px;
+    padding: 0 15px;
+    border: 2px solid rgb(238, 1, 1);
+    margin: 50px 10px;
+}
+
+.about-green {
+    background-color: green;
+}
